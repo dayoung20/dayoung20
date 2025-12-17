@@ -56,4 +56,7 @@
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayoung20&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
+
 _Thanks for stopping by! 🙌_
