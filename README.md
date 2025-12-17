@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/-React%20native-000?&logo=React" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white"/>
 
 **Backend & Infra**  
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
