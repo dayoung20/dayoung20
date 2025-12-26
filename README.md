@@ -19,6 +19,11 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/EC2-FF9900?logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lambda-FF9900?logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud9-232F3E?logo=amazonaws&logoColor=white"/>
+
 
 **Tools**  
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
