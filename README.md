@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/-React%20native-000?&logo=React" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white"/>
 
