@@ -46,7 +46,7 @@
 
 ### 🏆 Awards
 
-- 2026.03 | 한화생명 미래금융인재 Contest 2위 수상
+- 2026.03 | 한화생명 미래금융인재 Contest AI부문 2위 수상
 - 2025.05 | 고려대학교 정보대학 소프트웨어 경진대회 NE:XT 여기저기팀 장려상 수상 → [Repo](https://github.com/Yeogijeogi)
 - 2025.01 | 5th COKATHON 최우수상 (코테이토) → [Repo](https://github.com/5th-COKATHON/Team2-Client)
 - 2024.12 | 고려대학교 개별연구 및 캡스톤디자인 경진대회 우수상 수상 → [Repo](https://github.com/deun115/20242R0136COSE48002)
